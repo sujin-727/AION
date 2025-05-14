@@ -8,4 +8,4 @@
 <h1>Language</h1>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 Notion<br/>
-(https://www.notion.so/AI-1ca1914b15b9804a8d80d45c81af2a67)
+:taxi: https://www.notion.so/AI-1ca1914b15b9804a8d80d45c81af2a67
