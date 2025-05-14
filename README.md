@@ -3,7 +3,6 @@
 <h1>About We! :traffic_light:</h1>
 :ambulance: 20243262 조수진 <br/>
 :police_car: 20243276 정혜빈 <br/>
-Notion<br/>
 :taxi: https://www.notion.so/AI-1ca1914b15b9804a8d80d45c81af2a67
 <h1>Title :traffic_light:</h1>
 <h4>AI 기반 교통 혼잡·사고 위험 예측</h4><br/>
