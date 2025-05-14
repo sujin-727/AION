@@ -3,6 +3,6 @@
 <h1>About We! :traffic_light:</h1>
 :ambulance: 20243262 조수진 <br/>
 :police_car: 20243276 정혜빈 <br/>
-<h1>Title :traffic_light:</h1>title
+<h1>Title :traffic_light:</h1>
 Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
